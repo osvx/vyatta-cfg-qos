@@ -49,6 +49,7 @@ my %interface_hash = (
     'dummy/node.tag'                                => '$VAR(@)',
 
     'wirelessmodem/node.tag'                        => '$VAR(@)',
+    'pptp-client/node.tag'                          => '$VAR(@)',
     'wireless/node.tag'  	                    => '$VAR(@)',
     'wireless/node.tag/vif/node.tag'                => '$VAR(../@).$VAR(@)',
     'multilink/node.tag/vif/node.tag'               => '$VAR(../@)',
