@@ -1,3 +1,9 @@
+vyatta-cfg-qos (0.15.42+osvx1+projectx1) unstable; urgency=medium
+
+  * Added pptp-client support
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Sun, 01 Jun 2014 20:49:11 +0400
+
 vyatta-cfg-qos (0.15.42+vyos1+helium3) unstable; urgency=low
 
   * Bug #170: add L2TPv3 interface type to QoS template generator.
